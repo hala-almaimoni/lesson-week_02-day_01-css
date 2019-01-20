@@ -1,0 +1,61 @@
+/* 
+* {
+    background: orange;
+
+}
+
+
+body {
+    background-color: #eeeeee;
+}
+
+h1 {
+
+    text-align: center;
+
+}
+
+p {
+
+font-size: 32px;
+color: red;
+
+}
+
+#par {
+
+    color: blue;
+}
+
+nav a {
+    color: red;
+}
+
+.submit-button {
+    color: black;
+    background-color: purple;
+    border-radius: 5px;
+} */
+
+nav li {
+    display: inline;
+    padding: 0 10px 20px 10px;
+}
+
+button {
+    font-size: 32px;
+    margin: 20px;
+    padding: 12px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.logo {
+    float: right;
+    
+}
+
+h1 {
+    clear: both;
+}
